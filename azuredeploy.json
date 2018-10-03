@@ -90,7 +90,7 @@
                     ]
                 },
                 "protectedSettings": {
-                    "commandToExecute": "powershell -ExecutionPolicy Unrestricted -File post-deploy.ps1"
+                    "commandToExecute": "powershell -ExecutionPolicy Unrestricted -File paas-lab-vm-post-deploy.ps1"
                 }
             }
         },
