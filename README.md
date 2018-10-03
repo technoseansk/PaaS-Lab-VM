@@ -1,4 +1,2 @@
 # PaaS-Lab-VM
-<a href="https://azuredeploy.net/" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
-</a>
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
